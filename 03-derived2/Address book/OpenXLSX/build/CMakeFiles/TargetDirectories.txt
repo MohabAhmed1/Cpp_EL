@@ -1,0 +1,7 @@
+/home/mohab/OpenXLSX/OpenXLSX/build/CMakeFiles/OpenXLSX.dir
+/home/mohab/OpenXLSX/OpenXLSX/build/CMakeFiles/edit_cache.dir
+/home/mohab/OpenXLSX/OpenXLSX/build/CMakeFiles/rebuild_cache.dir
+/home/mohab/OpenXLSX/OpenXLSX/build/CMakeFiles/list_install_components.dir
+/home/mohab/OpenXLSX/OpenXLSX/build/CMakeFiles/install.dir
+/home/mohab/OpenXLSX/OpenXLSX/build/CMakeFiles/install/local.dir
+/home/mohab/OpenXLSX/OpenXLSX/build/CMakeFiles/install/strip.dir
