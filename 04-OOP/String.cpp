@@ -2,7 +2,7 @@
 #include <cstring>
 #include "String.hpp"
 
-
+    // Paramatized Constructor
     String::String(const char *s)
     {
         length = std::strlen(s);
@@ -10,7 +10,7 @@
         std::strcpy(str,s);
 
     }
-
+    // Copy Constructor
     String::String (const String &obj)
     {
         this -> str = new char [obj.length + 1 ];
@@ -62,12 +62,13 @@
         strcpy(this -> str , s.str); 
         return *this;
     }
+    //Destructor
     String::~String()
     {
         delete[] str ;
         str = nullptr;
     }
-
+    // operator overloading for cout<<
     std::ostream& operator<<(std::ostream &os , const String &s)    
     {
     return os << s.str ;
